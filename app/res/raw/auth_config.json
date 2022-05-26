@@ -1,0 +1,8 @@
+{
+  "client_id": "androidClientTest",
+  "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
+  "end_session_redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
+  "authorization_scope": "openid email profile co_scope pj_scope",
+  "discovery_uri": "https://qaautenticaciondigital.and.gov.co/.well-known/openid-configuration",
+  "https_required": true
+}

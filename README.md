@@ -1,1 +1,2 @@
-# libreria-android-auth
+# Librería de Integración con Android
+Repositorio con el ejemplo de integración al Servicio de Autenticación Digital con Android, mediante el empleo de la libreria AppAuth compatible con Android API 16 (Jellybean) y versiones posteriores https://openid.github.io/AppAuth-Android/ 
